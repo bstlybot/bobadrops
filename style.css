@@ -1,0 +1,12 @@
+h2 {
+    color:green;
+    text-align:center;
+}
+.intro {
+    color:#0ff;
+}
+body {
+    font-family: 'Arial';
+    background: rgb(0, 155, 64);
+    color: purple;
+  }
